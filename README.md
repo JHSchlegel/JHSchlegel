@@ -1,6 +1,6 @@
 # Hi there, I'm Jan! 👋
 
-I'm a Statistics MSc student at ETH Zurich with a passion for machine learning theory and applications. My interests center around  interpretability, probabilistic machine learning, and generative models, with a particular focus on diffusion models and their theoretical foundations.
+I'm a Statistics MSc student at ETH Zurich with a passion for machine learning theory and applications in healthcare and climate science. My interests center around  interpretability, probabilistic machine learning, and generative models, with a particular focus on diffusion models and their theoretical foundations.
 
 
 ## Some recent projects I've been working on:
