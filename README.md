@@ -15,6 +15,6 @@ I'm a Statistics MSc student at ETH Zurich with a passion for machine learning t
   Built interpretable models for medical diagnosis, including CNN-based pneumonia detection with interpretability techniques (Integrated Gradients, Grad-CAM) and heart arrhythmia classification using various deep learning architectures. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/ML4Healthcare)
 
 - **Probabilistic AI**  
-  Applied Bayesian deep learning for satellite imagery, Gaussian processes for geospatial modeling, safe optimization for drug candidates, and entropy-based reinforcement learning.. *(No public repository)*
+  Applied Bayesian deep learning for satellite imagery, Gaussian processes for geospatial modeling, safe optimization for drug candidates, and entropy-based reinforcement learning. *(No public repository)*
 
 I'm always open to collaborating on interesting research problems at the intersection of machine learning theory and real-world applications. Feel free to reach out!
