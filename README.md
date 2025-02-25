@@ -8,7 +8,7 @@ I'm a Statistics MSc student at ETH Zurich with a passion for machine learning t
 - **Neural Network Subspace Dynamics in Continual Learning**  
   Investigated whether catastrophic forgetting occurs primarily in the bulk subspace of the Hessian matrix, designing optimization algorithms to isolate learning in different subspaces. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/cf-tiny-subspaces?tab=readme-ov-file)
 
-- **Climate Downscaling with Elucidating Diffusion Models**  
+- **Climate Downscaling Extrapolation with Elucidating Diffusion Models**  
   Researched transferability of statistical downscaling methods to unseen Global Climate Models, implementing elucidating diffusion models for high-resolution climate prediction. *(No public repository)*
 
 - **Machine Learning for Healthcare**  
