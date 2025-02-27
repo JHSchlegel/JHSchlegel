@@ -12,7 +12,7 @@ I'm a Statistics MSc student at ETH Zurich with a passion for machine learning t
   Researched transferability of statistical downscaling methods to unseen Global Climate Models, implementing elucidating diffusion models for high-resolution climate prediction. *(No public repository)*
 
 - **Machine Learning for Healthcare**  
-  Built interpretable models for medical diagnosis, including CNN-based pneumonia detection with interpretability techniques (Integrated Gradients, Grad-CAM) and heart arrhythmia classification using various deep learning architectures. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/ML4Healthcare)
+  Built interpretable models for medical diagnosis, including CNN-based pneumonia detection with explainability& interpretability techniques (e.g. Neural Additive Model, Integrated Gradients, Grad-CAM) and heart arrhythmia classification using various deep learning architectures. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/ML4Healthcare)
 
 - **Probabilistic AI**  
   Applied Bayesian deep learning for satellite imagery, Gaussian processes for geospatial modeling, safe optimization for drug candidates, and entropy-based reinforcement learning. *(No public repository)*
