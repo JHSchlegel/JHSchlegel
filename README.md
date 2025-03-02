@@ -5,14 +5,14 @@ I'm a Statistics MSc student at ETH Zurich with a passion for machine learning t
 
 ## Some recent projects I've been working on:
 
-- **Neural Network Subspace Dynamics in Continual Learning**  
-  Investigated whether catastrophic forgetting occurs primarily in the bulk subspace of the Hessian matrix, designing optimization algorithms to isolate learning in different subspaces. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/cf-tiny-subspaces?tab=readme-ov-file)
+- **Neural Network Subspace Dynamics in Continual Learning** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/cf-tiny-subspaces?tab=readme-ov-file)
+  Investigated whether catastrophic forgetting occurs primarily in the bulk subspace of the Hessian matrix, designing optimization algorithms to isolate learning in different subspaces. 
 
-- **Extrapolation and Distributional Robustness for Climate Downscaling**  
-  Researched transferability of statistical downscaling methods to unseen Global Climate Models, implementing elucidating diffusion models for high-resolution climate prediction. *(No public repository)*
+- **Extrapolation and Distributional Robustness for Climate Downscaling** *(No public repository)*
+  Researched transferability of statistical downscaling methods to unseen Global Climate Models, implementing elucidating diffusion models for high-resolution climate prediction. 
 
-- **Machine Learning for Healthcare**  
-  Built interpretable models for medical diagnosis, including CNN-based pneumonia detection with explainability& interpretability techniques (e.g. Neural Additive Model, Integrated Gradients, Grad-CAM) and heart arrhythmia classification using various deep learning architectures. [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/ML4Healthcare)
+- **Machine Learning for Healthcare** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/ML4Healthcare)
+  Built interpretable models for medical diagnosis, including CNN-based pneumonia detection with explainability& interpretability techniques (e.g. Neural Additive Model, Integrated Gradients, Grad-CAM) and heart arrhythmia classification using various deep learning architectures. 
 
 
 I'm always open to collaborating on interesting research problems at the intersection of machine learning theory and real-world applications. Feel free to reach out!
