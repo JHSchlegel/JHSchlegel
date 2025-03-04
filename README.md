@@ -13,7 +13,7 @@ I'm a Statistics MSc student at ETH Zurich with a passion for machine learning t
 injection) for high-resolution climate predictions.
 
 - **Machine Learning for Healthcare:** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/ML4Healthcare)   
-  Built interpretable models for medical diagnosis employed various machine learning architectures for arrhythmia classification.
+  Built interpretable models for medical diagnosis and employed various machine learning architectures for arrhythmia classification.
 
 
 I'm always open to collaborating on interesting research problems at the intersection of machine learning theory and real-world applications. Feel free to reach out!
