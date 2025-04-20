@@ -9,8 +9,7 @@ I'm a Statistics MSc student at ETH Zurich with a passion for machine learning t
   Investigated whether catastrophic forgetting occurs primarily in the bulk subspace of the Hessian matrix, designing optimization algorithms to isolate learning in different subspaces. 
 
 - **Extrapolation and Distributional Robustness for Climate Downscaling** *(No public repository)*   
-  Researched transferability of statistical downscaling methods to unseen Global Climate Models, implementing (variance-reducing) two-step generative models (elucidated diffusion model and MLPs with noise
-injection) for high-resolution climate predictions.
+  Researched transferability of statistical downscaling methods to unseen Global Climate Models, implementing (variance-reducing) generative models (elucidated diffusion model and engression MLPs) for high-resolution climate predictions.
 
 - **Machine Learning for Healthcare:** [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15" height="15">](https://github.com/JHSchlegel/ML4Healthcare)   
   Built interpretable models for medical diagnosis and employed various machine learning architectures for arrhythmia classification.
