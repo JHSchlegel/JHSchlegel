@@ -15,4 +15,4 @@ I'm a Statistics MSc student at ETH Zurich with a passion for machine learning t
   Built interpretable models for medical diagnosis and employed various machine learning architectures for arrhythmia classification.
 
 
-I'm always open to collaborating on interesting research problems at the intersection of machine learning theory and real-world applications. Feel free to reach out!
+I'm always open to collaborating on interesting problems at the intersection of machine learning theory and real-world applications. Feel free to reach out!
